@@ -1,6 +1,6 @@
 # KNN Image Classifier
 
-An image classifier which classifies the images in the dataset Forest vs Desert on the kaggle.
+An image classifier which classifies the images in the dataset Forest vs Desert on the kaggle which was created by me :)
 
 ### Dataset Creation
 - Here is the [Dataset](https://www.kaggle.com/datasets/akhiljethwa/forest-vs-desert).
